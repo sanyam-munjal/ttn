@@ -1,0 +1,6 @@
+old changes:
+this is file 1
+it will be added to the repository
+
+new changes:
+file 1 new changes introduced
